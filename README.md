@@ -1,4 +1,4 @@
-### This repository is under progress.
+### This repository is work under progress.
 
 Here you can code to understand basics of solving a RL based problem using Tensorflow.
 - Tensorflow (keras)
