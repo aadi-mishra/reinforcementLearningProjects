@@ -11,5 +11,5 @@ In each of the projects you can find
 * `train.py` - Trains the model based on defined agent and policy.
 * `test.py` - Performance can be visualized after training.
 
-### Cartpole_DQN consists pendulum on a cart experiment with trained weights
-### spaceInvaders consists an RL agent playing classic atari Space Invader game. Unfortunately, I couldn't upload the weights which I had trained for almost 36 hours due to its large size.
+`cartpole_DQN` consists pendulum on a cart experiment with trained weights
+`spaceInvaders` consists an RL agent playing classic atari Space Invader game. Unfortunately, I couldn't upload the weights which I had trained for almost 36 hours due to its large size.
