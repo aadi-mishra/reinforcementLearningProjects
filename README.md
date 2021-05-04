@@ -13,3 +13,4 @@ In each of the projects you can find
 
 * Folder `cartpole_DQN` consists pendulum on a cart experiment with trained weights
 * Folder `spaceInvaders` consists an RL agent playing classic atari Space Invader game. Unfortunately, I couldn't upload the weights which I had trained for almost 36 hours due to its large size.
+* Folder `customEnv` consists a dqn agent trained on a custom shower environment, where the agent tries to control the optimal temperature(Discrete Action Space).
